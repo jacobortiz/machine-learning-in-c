@@ -1,5 +1,4 @@
 build/
 *.aux
 *.log
-
 *.o
