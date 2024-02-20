@@ -2,3 +2,4 @@ build/
 *.aux
 *.log
 *.o
+nn
